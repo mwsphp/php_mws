@@ -1,3 +1,3 @@
 <?php
 
-echo "Meu primeiro arquivo PHP! Helo World!";
+echo "Olá Mundo PHP!";
